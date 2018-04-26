@@ -6,3 +6,18 @@ html, body {
     min-height: 180px;
     width: 384px;
 }
+
+a:link, a:visited {
+    color: #000;
+    outline: 0;
+    text-decoration: none;
+}
+
+li {
+    margin-bottom: 3%;    
+}
+
+.container {
+    text-align: center;
+    margin: 0 auto;
+}
